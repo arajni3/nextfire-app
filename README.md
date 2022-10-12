@@ -1,1 +1,1 @@
-My nextfire-app from fireship.io.
+My nextfire-app from fireship.io.react, next, firebase
